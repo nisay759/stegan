@@ -1,7 +1,7 @@
 /**
  *  * \file stegin.h
  *  * \brief Prototype de la fonction stegin
- *  * \author Tioual.Y, Yaakoubi.H, Chebihi.Z, Tagourti.H
+ *  * \author Tioual.Y
  *  * \version 1.0
  *  * \date 27 Avril 2015
  */
