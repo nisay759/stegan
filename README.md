@@ -3,7 +3,6 @@
 ## Présentation ##
 
 Stegan est une application qui fait de la stéganographie sur des images au format PGM. A partir d'un fichier texte et d'une image au format PGM, l'application cache dans cette dernière toute les informations relatives au fichier texte et qui permettront de le reconstituer dans le futur (et ce de façon totalement transparente). L'application est aussi en mesure de reconstituer, à partir de l'image générée auparavant, le fichier texte originale.
-L'utilisation de l'application peut avoir plusieurs intérêts, notamment la sécurisation du transfert de données.
 
 ## Compilation ##
 
